@@ -1,5 +1,3 @@
 {
-  "auth": {
-    "check": true
-  }
+  "check": "1"
 }
